@@ -1,4 +1,4 @@
-import cls from "./App.style.module.scss";
+import * as cls from "./App.style.module.scss";
 import SeminarsList from "./SeminarsList";
 
 const App = () => {

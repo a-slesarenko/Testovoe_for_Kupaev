@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 40px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.error_message {
+  padding: 16px;
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #c62828;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  text-align: center;
+}

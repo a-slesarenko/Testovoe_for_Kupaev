@@ -1,0 +1,7 @@
+// обнуляющий стили файл
+@import url("./styles_utilities/resetStyles.scss");
+
+// Корневой div root
+#root {
+  min-height: 100vh;
+}
